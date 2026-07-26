@@ -5,3 +5,5 @@ I purchased a faulty one from Ebay hoping it was something simple but found that
 No official service manuals or schematics are available but as MSX is a standard, other manufacturers have published documents and using these as a reference, the functions of the IC were recreated into a workable replacement.
 
 The project was created using the Proteus Design Suite, i'm not an electronics engineer, just a hobbyist so this design may not be the best or follow correct design rules but it does work for me.
+
+<img width="4000" height="1844" alt="20260726_070538" src="https://github.com/user-attachments/assets/3eb33189-99a2-4713-bbe1-713f23b198ce" />
